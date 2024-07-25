@@ -20,13 +20,13 @@
 
 
 ## About The Project
-This was coded and built by Ijeoma and this just a little visual representation of my works.
+This was coded and built by Ijeoma and this is a visual representation of my works.
 
 
 
 ## Overview
 
-* [Repo Codes]()
+* [Repo Codes](https://github.com/ijayhub/portfolio-headstarter)
 
 
 * [Hosted Link]()
@@ -44,9 +44,9 @@ To get a local copy up and running follow these simple example steps:
 
 In the project directory, you can run:
 
- `open with live server` this open the application in your browser
+ `open with live server` opens the application in your browser
 
-Runs the app in the development mode.
+It runs the app in the development mode.
 
 The page will reload when you make changes.
 
