@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-    <img src="./images/headstarter-portfolio.png" alt="portfolio">
+    <img src="./images/doc.png" alt="portfolio">
 </div>
 <h1  align="center" > Portfolio</h1>
 <!-- TABLE OF CONTENTS -->
