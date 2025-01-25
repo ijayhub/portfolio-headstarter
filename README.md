@@ -29,7 +29,7 @@ This was coded and built by Ijeoma and this is a visual representation of my wor
 * [Repo Codes](https://github.com/ijayhub/portfolio-headstarter)
 
 
-* [Hosted Link](https://ijayhub.github.io/portfolio-headstarter/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
